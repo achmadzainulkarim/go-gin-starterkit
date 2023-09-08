@@ -1,0 +1,12 @@
+.env
+*.exe
+*.o
+*.a
+*.swp
+.DS_Store
+
+/tmp
+/main
+/vendor/
+.idea/
+.vscode/
