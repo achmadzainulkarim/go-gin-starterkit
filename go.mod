@@ -1,4 +1,4 @@
-module api
+module goginapi
 
 go 1.21
 
